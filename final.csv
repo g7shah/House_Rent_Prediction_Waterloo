@@ -1,0 +1,202 @@
+EnrolmentTerm,BuildingType,RoomType,Furnished,SharedorPrivate,HouseAge,LocationWard,Internet ,Hydro,AirConditioning,Laundry,Parking,Terrace ,Security,Bedrooms,Bathrooms,MarketCommute,BusStopCommute,Rent
+Fall,Apartment,Regular Room,Yes,Private,Middle ,Central-Columbia ward,1,1,1,1,1,0,0,5,2,25,3,2500
+Fall,Apartment,Regular Room,Yes,Private,Middle ,Southeast ward,0,1,0,0,0,1,0,7,3,25,18,4900
+Fall,House,Regular Room,Yes,Shared,Middle ,Central-Columbia ward,1,1,1,1,1,1,0,5,2,15,3,2500
+Fall,House,Regular Room,Yes,Private,Middle ,7- Uptown ward,1,1,1,1,0,0,0,3,1,25,8,2100
+Winter,Apartment,Regular Room,No,Private,Old,4- Northeast ward,0,0,0,0,0,1,0,1,1,15,3,1300
+Fall,Apartment,Regular Room,Yes,Private,Middle ,6- Central-Columbia ward,1,0,1,1,0,0,0,5,2,15,3,3500
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,0,1,0,1,0,1,5,2,15,3,2500
+Fall,Apartment,Regular Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,1,1,2,1,15,3,1800
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,1- Southwest ward,1,1,1,1,1,0,0,5,2,5,3,2500
+Fall,House,Regular Room,Yes,Private,Middle ,4- Northeast ward,1,1,1,1,1,0,0,5,3,5,3,2000
+Fall,Apartment,Regular Room,Yes,Private,Old,7- Uptown ward,1,1,0,0,1,0,0,4,1,5,3,1600
+Fall,House,Master Room,No,Shared,Middle ,1- Southwest ward,0,0,1,1,0,0,0,4,1,5,8,2000
+Fall,House,Basement,Yes,Shared,Old,5- Southeast ward,1,1,1,1,1,0,0,5,2,15,3,2500
+Fall,Apartment,Regular Room,Yes,Shared,New,2- Northwest ward,1,1,0,1,0,0,1,4,3,5,3,2000
+Fall,Apartment,Regular Room,Yes,Private,Old,7- Uptown ward,1,1,0,0,0,0,0,5,2,5,3,4500
+Spring,Apartment,Master Room,Yes,Private,Middle ,2- Northwest ward,1,1,1,1,0,0,1,5,5,15,3,1500
+Fall,House,Regular Room,Yes,Shared,Old,6- Central-Columbia ward,1,0,0,1,1,0,0,4,2,25,3,2000
+Winter,House,Master Room,Yes,Private,Middle ,6- Central-Columbia ward,1,1,1,1,1,0,0,3,1,5,3,1500
+Fall,House,Regular Room,No,Private,Old,6- Central-Columbia ward,1,1,0,1,1,0,0,5,2,15,3,2500
+Fall,Apartment,Regular Room,Yes,Private,New,6- Central-Columbia ward,1,1,1,1,1,0,1,5,3,5,3,3500
+Fall,Apartment,Master Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,0,1,0,0,0,2,2,5,8,1400
+Fall,House,Regular Room,Yes,Private,Old,3- Lakeshore ward,1,1,0,1,1,0,0,4,1,5,3,2000
+Fall,Apartment,Master Room,Yes,Private,Middle ,4- Northeast ward,1,1,0,0,0,0,0,5,2,5,3,3500
+Fall,House,Regular Room,Yes,Private,Middle ,3- Lakeshore ward,1,1,1,1,1,0,0,5,2,15,3,2500
+Winter,Apartment,Regular Room,Yes,Private,Middle ,5- Southeast ward,1,1,0,1,0,0,0,5,2,50,3,2500
+Fall,House,Regular Room,Yes,Private,Middle ,7- Uptown ward,1,1,0,1,1,0,0,1,2,15,3,500
+Spring,House,Regular Room,No,Shared,Old,6- Central-Columbia ward,1,1,1,1,1,0,0,4,1,5,3,2000
+Spring,House,Regular Room,Yes,Private,Middle ,6- Central-Columbia ward,1,1,0,1,1,0,1,2,2,5,3,1400
+Fall,Apartment,Master Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,0,0,0,1,1,15,8,500
+Spring,Apartment,Regular Room,Yes,Private,New,5- Southeast ward,1,1,1,0,0,0,0,5,5,15,8,2500
+Winter,Apartment,Regular Room,No,Private,Middle ,6- Central-Columbia ward,1,0,0,0,1,0,0,2,1,15,8,1000
+Fall,House,Master Room,Yes,Private,Middle ,6- Central-Columbia ward,1,0,1,1,1,0,0,5,2,15,3,2500
+Spring,House,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,1,0,0,4,2,15,3,2000
+Fall,Apartment,Regular Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,1,1,2,2,15,3,1400
+Fall,Apartment,Regular Room,No,Private,New,7- Uptown ward,1,1,1,1,1,1,1,1,1,5,3,1700
+Winter,Apartment,Other,No,Private,Middle ,2- Northwest ward,1,1,0,1,0,0,0,1,1,15,8,1100
+Spring,House,Regular Room,Yes,Private,Old,1- Southwest ward,1,1,1,1,1,0,0,5,2,15,3,2500
+Winter,House,Basement,Yes,Shared,Old,1- Southwest ward,1,1,1,1,0,0,0,2,2,15,3,1000
+Fall,Apartment,Regular Room,Yes,Private,Old,4- Northeast ward,1,1,0,1,0,0,0,2,1,15,3,1000
+Fall,Apartment,Other,No,Private,Old,7- Uptown ward,0,0,0,1,0,1,0,1,1,5,3,1100
+Fall,Apartment,Other,No,Private,Middle ,6- Central-Columbia ward,0,1,1,1,1,1,1,3,1,5,3,1800
+Fall,Apartment,Regular Room,No,Shared,Old,6- Central-Columbia ward,0,1,0,1,1,0,0,2,1,25,3,1000
+Spring,Apartment,Regular Room,Yes,Private,New,6- Central-Columbia ward,1,1,1,1,0,0,1,2,1,5,3,1200
+Fall,House,Other,No,Private,Old,6- Central-Columbia ward,1,1,0,1,1,0,0,2,1,5,3,1400
+Winter,House,Regular Room,Yes,Private,Old,6- Central-Columbia ward,1,1,0,1,1,0,0,5,2,5,3,2500
+Fall,House,Regular Room,No,Private,New,7- Uptown ward,0,0,1,1,1,0,0,4,1,5,3,1400
+Winter,House,Regular Room,Yes,Shared,Old,2- Northwest ward,0,1,1,1,1,0,0,3,1,5,3,900
+Winter,Apartment,Basement,Yes,Private,Old,4- Northeast ward,1,0,1,0,1,0,0,1,1,5,3,700
+Fall,House,Regular Room,Yes,Private,Middle ,3- Lakeshore ward,1,1,1,1,1,0,0,4,2,5,3,2000
+Winter,Apartment,Regular Room,Yes,Private,New,1- Southwest ward,1,1,1,1,1,0,1,5,2,5,3,4500
+Spring,Apartment,Master Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,1,0,0,4,3,5,3,2000
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,1,0,0,5,2,15,3,2500
+Fall,House,Regular Room,Yes,Shared,Old,6- Central-Columbia ward,1,1,1,1,1,1,0,5,2,5,8,3500
+Spring,Apartment,Master Room,Yes,Private,New,7- Uptown ward,1,1,1,1,1,1,1,3,2,5,13,1650
+Spring,Apartment,Regular Room,Yes,Shared,New,7- Uptown ward,1,1,1,1,0,0,0,5,5,5,8,2500
+Fall,Apartment,Regular Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,0,0,5,5,25,3,3500
+Spring,Apartment,Regular Room,Yes,Shared,Old,7- Uptown ward,0,1,1,1,1,0,0,5,2,15,3,2000
+Spring,Apartment,Master Room,Yes,Shared,New,6- Central-Columbia ward,0,1,1,1,1,1,0,5,5,5,3,3500
+Spring,Apartment,Regular Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,0,0,5,4,5,3,2500
+Fall,Apartment,Master Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,1,1,1,5,3,5,3,5500
+Spring,House,Regular Room,No,Shared,Old,7- Uptown ward,0,1,1,1,1,1,0,7,2,5,3,4900
+Fall,House,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,0,1,1,3,1,5,3,2100
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,0,0,1,5,5,15,18,3500
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,1,0,0,5,5,15,3,2500
+Fall,Apartment,Regular Room,No,Shared,Old,6- Central-Columbia ward,1,1,1,0,1,0,0,3,1,15,3,2100
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,1,0,0,3,1,15,8,1500
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,0,0,0,5,2,5,3,2500
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,0,0,0,2,5,15,8,1400
+Fall,Apartment,Regular Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,0,0,1,2,1,5,3,1600
+Winter,Apartment,Regular Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,0,1,0,2,1,15,3,1800
+Spring,Apartment,Regular Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,0,1,0,2,1,15,3,1000
+Spring,House,Master Room,Yes,Shared,Old,6- Central-Columbia ward,1,1,1,1,0,1,0,5,2,15,3,3500
+Winter,Apartment,Regular Room,No,Shared,Old,1- Southwest ward,0,1,0,0,0,0,0,2,1,25,3,1000
+Spring,Apartment,Regular Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,0,1,1,2,1,5,3,1000
+Spring,Apartment,Master Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,0,0,0,5,2,5,3,2500
+Spring,Apartment,Regular Room,Yes,Shared,Old,6- Central-Columbia ward,1,1,1,1,1,1,0,5,2,35,3,2500
+Fall,Apartment,Regular Room,No,Shared,Old,7- Uptown ward,1,1,1,0,0,0,0,2,2,5,3,1000
+Fall,Apartment,Regular Room,No,Shared,Old,6- Central-Columbia ward,1,1,1,1,0,1,0,6,2,5,3,3000
+Fall,Apartment,Master Room,Yes,Private,New,6- Central-Columbia ward,1,1,1,1,1,1,1,1,1,5,3,1700
+Fall,House,Regular Room,Yes,Shared,Old,2- Northwest ward,0,0,0,0,1,0,0,4,2,5,3,2000
+Fall,Apartment,Master Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,1,1,5,1,15,8,2000
+Fall,House,Regular Room,No,Shared,Middle ,5- Southeast ward,0,1,0,1,0,0,0,5,3,15,13,3500
+Fall,House,Master Room,No,Shared,Old,7- Uptown ward,0,1,1,1,0,0,0,4,2,5,8,2800
+Fall,House,Regular Room,Yes,Shared,Old,5- Southeast ward,0,1,1,1,1,1,0,5,2,25,18,4500
+Spring,Apartment,Regular Room,No,Shared,Middle ,7- Uptown ward,1,1,1,1,0,0,0,1,1,15,13,1700
+Spring,Apartment,Master Room,Yes,Private,Old,2- Northwest ward,1,1,1,1,1,0,0,1,1,5,3,900
+Spring,House,Master Room,Yes,Private,Old,5- Southeast ward,1,1,1,1,1,1,0,3,1,5,3,1950
+Spring,Apartment,Master Room,Yes,Private,Middle ,6- Central-Columbia ward,1,1,1,1,1,0,0,1,1,5,8,1700
+Fall,House,Regular Room,Yes,Shared,Middle ,7- Uptown ward,1,1,1,1,0,1,0,4,1,5,3,2800
+Fall,House,Regular Room,Yes,Shared,Old,7- Uptown ward,0,1,0,0,0,0,0,5,5,15,13,2000
+Spring,Apartment,Master Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,0,0,5,3,5,3,4500
+Spring,Apartment,Regular Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,0,0,5,3,5,3,2500
+Winter,House,Basement,Yes,Private,Middle ,7- Uptown ward,1,1,1,1,0,0,0,3,2,5,3,5700
+Fall,Apartment,Regular Room,Yes,Shared,Old,2- Northwest ward,0,1,1,1,0,0,0,5,1,25,18,1750
+Fall,House,Regular Room,Yes,Shared,Middle ,7- Uptown ward,0,1,1,1,0,0,0,3,1,5,8,2100
+Fall,House,Master Room,Yes,Shared,Old,4- Northeast ward,0,0,0,0,1,0,0,4,2,25,13,1600
+Fall,House,Regular Room,No,Private,Old,6- Central-Columbia ward,1,1,1,1,0,1,0,4,2,15,3,1800
+Fall,House,Regular Room,Yes,Shared,Middle ,7- Uptown ward,1,1,1,1,0,1,0,3,2,15,8,2100
+Spring,Apartment,Master Room,Yes,Shared,New,7- Uptown ward,1,1,1,1,0,0,0,5,5,15,8,4500
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,0,1,1,1,0,0,0,6,2,25,3,3000
+Fall,Apartment,Regular Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,0,0,0,5,2,5,3,3500
+Fall,Apartment,Master Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,1,0,5,5,5,3,4500
+Fall,Apartment,Master Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,1,1,3,3,5,3,3900
+Spring,Apartment,Master Room,Yes,Private,New,6- Central-Columbia ward,1,1,1,1,1,1,0,1,1,5,3,1500
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,0,0,0,4,3,5,3,3600
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,1,1,1,1,0,0,0,7,4,15,3,4900
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,0,1,1,1,0,0,0,2,2,25,8,1400
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,0,1,1,1,0,0,0,4,2,20,13,1600
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,6- Central-Columbia ward,0,1,1,1,0,0,0,4,3,15,13,1600
+Spring,Apartment,Master Room,Yes,Shared,Middle ,3- Lakeshore ward,1,1,1,1,1,1,0,3,3,15,8,2100
+Fall,House,Master Room,Yes,Shared,Middle ,3- Lakeshore ward,1,1,1,1,1,1,0,3,3,15,8,3300
+Winter,House,Master Room,Yes,Shared,Middle ,3- Lakeshore ward,1,1,1,1,1,1,0,3,3,15,8,2700
+Fall,Apartment,Regular Room,No,Private,New,3- Lakeshore ward,1,1,1,1,0,0,0,1,1,15,13,1700
+Fall,Apartment,Regular Room,No,Private,New,3- Lakeshore ward,1,1,1,1,0,0,0,1,1,5,3,700
+Fall,Apartment,Regular Room,Yes,Private,New,3- Lakeshore ward,1,1,1,1,0,1,0,1,1,25,8,1300
+Spring,Apartment,Regular Room,Yes,Shared,Middle ,3- Lakeshore ward,0,1,1,1,0,0,0,5,3,5,8,2000
+Winter,House,Basement,Yes,Private,Old,5- Southeast ward,0,1,1,1,0,0,0,1,1,5,3,900
+Spring,House,Basement,Yes,Shared,Middle ,3- Lakeshore ward,1,1,1,1,0,0,0,1,1,5,3,700
+Spring,Apartment,Regular Room,Yes,Shared,New,3- Lakeshore ward,0,1,1,1,0,0,0,2,1,5,3,700
+Winter,Apartment,Regular Room,Yes,Shared,New,3- Lakeshore ward,1,1,1,1,0,0,0,2,1,5,3,1000
+Fall,Apartment,Regular Room,Yes,Shared,New,3- Lakeshore ward,0,1,1,1,0,0,0,2,1,15,3,1400
+Fall,Apartment,Master Room,Yes,Private,New,6- Central-Columbia ward,1,1,1,1,1,1,0,1,2,5,3,1900
+Fall,Apartment,Regular Room,Yes,Shared,Old,1- Southwest ward,1,1,0,0,0,0,0,3,1,15,8,900
+Winter,Apartment,Regular Room,No,Shared,Middle ,4- Northeast ward,1,1,1,1,0,0,0,3,1,5,3,1500
+Spring,House,Regular Room,Yes,Shared,New,4- Northeast ward,1,1,1,1,0,0,0,5,3,15,8,3500
+Winter,House,Regular Room,Yes,Shared,Middle ,5- Southeast ward,1,1,1,1,0,0,0,7,4,15,8,3500
+Fall,Apartment,Other,Yes,Shared,New,1- Southwest ward,0,1,1,1,0,0,0,2,1,5,3,1400
+Fall,Apartment,Regular Room,Yes,Shared,New,4- Northeast ward,1,1,1,1,0,0,0,4,2,5,3,3600
+Winter,House,Master Room,Yes,Shared,Old,3- Lakeshore ward,1,1,1,1,0,1,0,4,3,5,8,2800
+Fall,Apartment,Master Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,1,0,3,2,5,3,3900
+Spring,Apartment,Master Room,Yes,Shared,New,4- Northeast ward,1,1,1,1,1,1,0,4,3,25,8,2800
+Winter,Apartment,Master Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,0,0,3,2,5,3,2700
+Spring,Apartment,Regular Room,No,Shared,Middle ,1- Southwest ward,1,1,1,1,0,0,0,2,1,5,8,1000
+Winter,House,Master Room,Yes,Shared,Old,2- Northwest ward,0,1,1,1,1,0,0,4,2,5,3,3600
+Spring,Apartment,Other,No,Shared,Old,1- Southwest ward,0,1,0,1,0,0,0,2,1,20,23,700
+Spring,Apartment,Regular Room,Yes,Shared,Old,2- Northwest ward,0,1,0,0,0,0,0,2,1,50,18,800
+Spring,Apartment,Regular Room,Yes,Shared,Middle ,4- Northeast ward,1,1,1,1,0,0,0,3,2,15,8,1200
+Fall,House,Regular Room,Yes,Shared,Middle ,1- Southwest ward,1,1,1,1,0,0,0,4,3,15,8,3600
+Spring,Apartment,Regular Room,No,Shared,Middle ,1- Southwest ward,1,1,1,1,0,0,0,2,1,15,8,1000
+Fall,Apartment,Other,Yes,Shared,New,4- Northeast ward,1,1,1,1,0,0,0,2,1,15,8,1000
+Spring,Apartment,Regular Room,No,Shared,Old,7- Uptown ward,1,1,1,1,0,0,0,4,2,15,18,2000
+Winter,Apartment,Regular Room,Yes,Shared,New,3- Lakeshore ward,1,1,1,1,1,0,0,3,2,15,8,2700
+Fall,House,Regular Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,1,1,6,6,5,3,2400
+Fall,Apartment,Master Room,Yes,Shared,Middle ,2- Northwest ward,1,1,1,1,0,0,0,2,2,5,3,2200
+Winter,Apartment,Regular Room,Yes,Shared,Middle ,4- Northeast ward,0,1,0,1,0,0,0,3,1,15,8,1500
+Winter,Apartment,Master Room,Yes,Private,New,2- Northwest ward,1,1,1,1,1,1,1,1,1,15,8,1500
+Fall,Apartment,Regular Room,Yes,Shared,New,1- Southwest ward,1,1,1,1,0,0,0,2,1,15,8,1400
+Winter,Apartment,Regular Room,Yes,Shared,New,4- Northeast ward,0,1,0,0,0,0,0,2,2,15,8,1400
+Spring,Apartment,Regular Room,Yes,Shared,Middle ,5- Southeast ward,1,1,1,1,0,1,0,3,2,35,8,1125
+Winter,Apartment,Regular Room,Yes,Shared,New,2- Northwest ward,1,1,1,1,0,0,0,3,2,15,3,2100
+Spring,Apartment,Regular Room,No,Shared,New,5- Southeast ward,1,1,1,1,0,0,0,3,2,5,8,1050
+Fall,Apartment,Regular Room,Yes,Shared,New,5- Southeast ward,1,0,1,1,0,0,0,2,1,15,3,1800
+Winter,House,Basement,Yes,Private,Middle ,2- Northwest ward,1,1,1,1,0,0,0,1,1,15,8,1100
+Fall,Apartment,Regular Room,Yes,Shared,New,4- Northeast ward,1,1,1,1,0,0,0,3,1,5,3,3300
+Fall,Apartment,Master Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,1,0,2,2,5,8,2600
+Fall,Apartment,Other,Yes,Shared,New,4- Northeast ward,1,0,1,1,0,0,0,1,1,5,3,700
+Fall,Apartment,Regular Room,No,Shared,Middle ,1- Southwest ward,1,1,1,1,0,0,0,3,2,15,8,2100
+Spring,Apartment,Master Room,Yes,Shared,New,6- Central-Columbia ward,1,1,1,1,1,1,0,2,2,5,3,1400
+Spring,House,Regular Room,Yes,Shared,Old,1- Southwest ward,1,1,1,1,0,1,0,7,2,15,13,1925
+Winter,Apartment,Regular Room,No,Shared,Middle ,3- Lakeshore ward,1,1,1,1,0,0,0,3,2,25,13,900
+Spring,Apartment,Regular Room,No,Shared,Middle ,2- Northwest ward,0,0,1,1,0,0,0,2,1,5,8,1000
+Spring,Apartment,Regular Room,Yes,Shared,Middle ,1- Southwest ward,1,1,1,1,0,0,0,2,1,5,3,1000
+Winter,House,Basement,Yes,Private,New,6- Central-Columbia ward,1,1,1,1,1,1,0,2,1,5,3,3800
+Fall,House,Master Room,Yes,Shared,Middle ,4- Northeast ward,1,1,1,1,1,1,0,2,2,5,3,3800
+Spring,Apartment,Regular Room,Yes,Private,Middle ,5- Southeast ward,1,1,1,1,0,1,0,1,1,15,8,1100
+Spring,Apartment,Other,Yes,Shared,Middle ,4- Northeast ward,1,1,0,1,0,0,0,1,1,15,8,500
+Spring,Apartment,Regular Room,Yes,Shared,Middle ,4- Northeast ward,0,1,1,1,0,0,0,3,1,25,18,1500
+Fall,House,Master Room,Yes,Shared,New,4- Northeast ward,1,1,1,1,1,1,0,5,3,15,8,6500
+Fall,House,Basement,No,Shared,Old,3- Lakeshore ward,0,1,1,1,0,0,0,2,1,25,13,1400
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,3- Lakeshore ward,0,1,1,1,0,1,0,2,1,5,3,1800
+Spring,Apartment,Regular Room,Yes,Shared,New,2- Northwest ward,1,1,1,1,0,0,0,3,1,15,8,1500
+Winter,Apartment,Regular Room,Yes,Shared,Middle ,4- Northeast ward,1,1,1,1,0,0,0,3,2,15,8,1800
+Winter,Apartment,Regular Room,Yes,Shared,New,3- Lakeshore ward,1,1,1,1,1,1,1,2,1,5,3,1800
+Spring,Apartment,Regular Room,No,Shared,Middle ,5- Southeast ward,0,1,0,1,0,1,0,3,1,35,18,1200
+Winter,Apartment,Regular Room,Yes,Shared,Old,5- Southeast ward,1,1,1,1,1,1,0,3,1,15,8,2100
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,1- Southwest ward,0,1,1,1,0,0,0,3,2,5,3,2700
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,5- Southeast ward,0,0,1,1,0,0,0,2,1,5,3,1400
+Winter,House,Basement,No,Private,Old,4- Northeast ward,1,1,1,1,0,0,0,1,1,5,8,1100
+Spring,Apartment,Regular Room,Yes,Shared,Middle ,3- Lakeshore ward,1,1,1,1,0,0,0,3,2,5,8,1500
+Winter,Apartment,Other,Yes,Shared,Middle ,4- Northeast ward,1,1,1,1,0,1,0,1,1,25,8,700
+Winter,Apartment,Regular Room,Yes,Shared,Old,4- Northeast ward,0,1,1,1,0,0,0,2,1,25,13,1400
+Winter,Apartment,Regular Room,Yes,Shared,New,1- Southwest ward,1,1,1,1,1,1,1,3,3,5,3,1200
+Fall,House,Regular Room,Yes,Shared,New,3- Lakeshore ward,1,1,1,1,0,1,0,7,3,15,13,6300
+Fall,Apartment,Regular Room,Yes,Private,New,2- Northwest ward,1,1,1,1,1,1,1,1,1,15,8,1700
+Winter,Apartment,Master Room,Yes,Shared,Middle ,2- Northwest ward,1,1,1,1,1,1,1,3,2,15,8,3300
+Spring,Apartment,Regular Room,Yes,Shared,New,3- Lakeshore ward,1,1,1,1,1,1,1,2,2,5,3,1800
+Spring,House,Master Room,Yes,Shared,Middle ,3- Lakeshore ward,1,1,0,1,0,1,0,5,3,35,13,2500
+Spring,House,Master Room,Yes,Shared,New,5- Southeast ward,1,1,1,1,1,1,0,5,3,25,13,4500
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,3- Lakeshore ward,1,0,1,1,0,0,0,2,1,15,3,1800
+Winter,Apartment,Regular Room,Yes,Shared,New,1- Southwest ward,0,1,0,1,0,0,0,3,1,5,3,1500
+Fall,House,Basement,No,Shared,Middle ,3- Lakeshore ward,1,1,1,1,0,0,0,3,1,5,3,2100
+Winter,Apartment,Regular Room,Yes,Shared,Old,4- Northeast ward,1,1,1,1,0,0,0,2,1,25,13,1800
+Spring,Apartment,Regular Room,Yes,Shared,New,2- Northwest ward,1,1,1,1,0,0,0,2,1,5,3,800
+Spring,Apartment,Regular Room,Yes,Shared,New,4- Northeast ward,1,1,0,1,1,0,0,3,1,25,13,1200
+Fall,Apartment,Regular Room,Yes,Shared,New,4- Northeast ward,0,1,1,1,0,0,0,2,1,5,3,1800
+Winter,House,Basement,Yes,Private,New,3- Lakeshore ward,0,1,1,1,0,0,0,1,1,10,8,1300
+Spring,Apartment,Regular Room,Yes,Shared,Old,5- Southeast ward,1,1,0,1,0,0,0,2,1,15,13,700
+Fall,Apartment,Regular Room,No,Shared,New,7- Uptown ward,1,1,1,1,0,0,0,2,1,15,13,1400
+Fall,House,Basement,Yes,Private,Middle ,6- Central-Columbia ward,1,1,1,1,0,0,0,1,1,5,3,1700
+Fall,Apartment,Regular Room,Yes,Shared,Middle ,4- Northeast ward,1,1,0,0,0,0,0,2,1,15,8,1400
+Winter,Apartment,Regular Room,Yes,Shared,New,3- Lakeshore ward,1,0,1,1,0,0,0,2,1,35,18,1000
