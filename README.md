@@ -14,4 +14,4 @@ Clustering and Apriori analysis was further carried out which can be observed in
 
 Report-HousingRentalPrediction is the final report comprising all the coding components with business insights.
 
-TL;DR - Go through Report-HousingRentalPrediction.pdf for entire workflow of the project!
+# TL;DR - Go through Report-HousingRentalPrediction.pdf for entire workflow of the project!
